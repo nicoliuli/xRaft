@@ -1,5 +1,8 @@
 package bean;
 
+/**
+ * 集群成员信息
+ */
 public class GroupMember {
     private NodeEndpoint endpoint;
     private ReplicatingState replicatingState;

@@ -3,6 +3,7 @@ package bean;
 import java.io.Serializable;
 import java.util.Objects;
 
+
 public class NodeId implements Serializable {
     private final String value;
 

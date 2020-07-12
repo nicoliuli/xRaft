@@ -4,6 +4,9 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 集群成员表
+ */
 public class NodeGroup {
     private NodeId selfId;
     private Map<NodeId, GroupMember> memberMap;

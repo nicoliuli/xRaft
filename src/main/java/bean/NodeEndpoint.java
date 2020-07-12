@@ -1,5 +1,8 @@
 package bean;
 
+/**
+ * 节点信息
+ */
 public class NodeEndpoint {
     private final NodeId id;
     private final Address address;
