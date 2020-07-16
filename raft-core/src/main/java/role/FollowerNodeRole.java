@@ -2,7 +2,7 @@ package role;
 
 import bean.NodeId;
 import enums.RoleName;
-import schedue.ElectionTimeout;
+import schedule.ElectionTimeout;
 
 /**
  * Follower角色

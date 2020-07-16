@@ -1,4 +1,4 @@
-package schedue;
+package schedule;
 
 /**
  * 日志复制定时器

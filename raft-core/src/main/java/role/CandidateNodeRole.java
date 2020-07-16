@@ -1,7 +1,7 @@
 package role;
 
 import enums.RoleName;
-import schedue.ElectionTimeout;
+import schedule.ElectionTimeout;
 
 /**
  * 被选举者

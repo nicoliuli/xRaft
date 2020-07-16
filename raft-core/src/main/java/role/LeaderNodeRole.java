@@ -1,7 +1,7 @@
 package role;
 
 import enums.RoleName;
-import schedue.LogReplicationTask;
+import schedule.LogReplicationTask;
 
 /**
  * leader角色
