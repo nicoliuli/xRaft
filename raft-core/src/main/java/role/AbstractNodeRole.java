@@ -11,6 +11,9 @@ abstract class AbstractNodeRole {
      * 角色
      */
     private RoleName roleName;
+    /**
+     * 票数
+     */
     protected int term;
 
     /**
@@ -31,6 +34,4 @@ abstract class AbstractNodeRole {
         return term;
     }
 
-    public static class FollowerNodeRole {
-    }
 }

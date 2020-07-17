@@ -8,6 +8,9 @@ import schedule.ElectionTimeout;
  * p61
  */
 public class CandidateNodeRole extends AbstractNodeRole {
+    /**
+     * 收到的票数
+     */
     private int votesCounts;
     private ElectionTimeout electionTimeout;
 
